@@ -1,2 +1,0 @@
-# weatherAppwithRedux
-Created with CodeSandbox
