@@ -1,4 +1,11 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  background-color: #ffffff;
+  background-image: linear-gradient(
+    180deg,
+    #ffffff 0%,
+    #6284ff 50%,
+    #ff0000 100%
+  );
 }
